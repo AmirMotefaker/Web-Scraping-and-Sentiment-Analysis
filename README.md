@@ -1,4 +1,4 @@
-# Web Scraping and Sentiment Analysis of Tripadvis using R
+# Web Scraping and Sentiment Analysis of TripAdvisor using R
 
 ### Hints
 - Web scraper to get live hotel reviews from TripAdvisor website
